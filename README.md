@@ -1,5 +1,10 @@
-# 💫 About Me:
-🎓 Engineering @ NITS (Final Year)<br><br>⚙️ Backend-first engineer obsessed with systems, queues, APIs, and correctness<br><br>🧩 Building AI-powered Applications<br><br>🔁 Care deeply about idempotency, failure handling, and edge cases<br><br>📐 Prefer clean architecture > clever hacks<br><br>🧪 Currently experimenting with AI automation systems & developer tooling<br>
+# 💫 About Me
+
+🎓 NIT Silchar Graduate
+
+⚙️ Enjoy building backend systems and AI-powered applications
+
+🔨 Curious about how things work under the hood
 
 
 ## 🌐 Socials:
